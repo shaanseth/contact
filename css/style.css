@@ -1,0 +1,23 @@
+/** {
+  margin: 0;
+}
+
+body {
+  width: 100vw;
+  margin: 0 auto;
+}
+
+input, textarea, button {
+  display: block;
+}*/
+
+body {
+  display: flex;
+  flex-direction: column;
+  /*justify-content: center;*/
+  align-items: center;
+}
+
+input, textarea, button {
+  display: block;
+}
